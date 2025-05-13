@@ -29,19 +29,17 @@
 
 ### 📊 GitHub Development Analytics
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=He-is-Awais&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=He-is-Awais&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=He-is-Awais&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He-is-Awais&layout=compact&theme=dark&hide_border=true">
-  <img width="47%" src="https://github-profile-trophy.vercel.app/?username=He-is-Awais&theme=darkhub&no-frame=true&margin-w=10">
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=He-is-Awais&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=He-is-Awais&theme=github-compact&hide_border=true&area=true">
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=He-is-Awais&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=He-is-Awais&theme=darkhub&no-frame=true&margin-w=10)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=He-is-Awais&theme=github-compact&hide_border=true&area=true)](https://github.com/He-is-Awais)
+
+
 ### 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m-awais17.github.io/awais.github.io/)
