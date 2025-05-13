@@ -29,16 +29,17 @@
 
 ### 📊 GitHub Development Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=He-is-Awais&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Awais17&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=He-is-Awais&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Awais17&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=He-is-Awais&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Awais17&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=He-is-Awais&theme=darkhub&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=M-Awais17&theme=darkhub&no-frame=true&margin-w=10)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=He-is-Awais&theme=github-compact&hide_border=true&area=true)](https://github.com/He-is-Awais)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Awais17&theme=github-compact&hide_border=true&area=true)](https://github.com/M-Awais17)
 
+---
 
 ### 🌐 Connect With Me
 
